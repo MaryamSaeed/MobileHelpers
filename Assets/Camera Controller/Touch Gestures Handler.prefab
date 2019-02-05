@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4351344063545294}
   - component: {fileID: 114539226164301186}
   m_Layer: 0
-  m_Name: Touch Gestures Handler
+  m_Name: CameraController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33,8 +33,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1404510262691372}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 213.50146, y: 1920.8738, z: -0.5519409}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 218.16147, y: 1917.8337, z: -0.6219409}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
