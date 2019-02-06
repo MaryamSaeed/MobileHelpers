@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4351344063545294}
   - component: {fileID: 114539226164301186}
   m_Layer: 0
-  m_Name: CameraController
+  m_Name: Touch Gestures Handler
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
